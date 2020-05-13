@@ -15,6 +15,7 @@ enum AusState: String {
     case SA = "South Australia"
     case WA = "Western Australia"
     case NT = "Northern Territory"
+    case TAS = "Tasmania"
     case ACT = "Australian Capital Territory"
 }
 
